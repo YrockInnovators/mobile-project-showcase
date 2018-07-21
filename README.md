@@ -78,6 +78,10 @@ cd mobilelists on command prompt
 run npm install
 ```
 ### 3.1 Run build
+Since im using my local machine as a server you need to edit /components/CharacterScreen.js with below section to consume the API on your device:
+```
+http://<local machine ipaddress>:<port>/api/v1/items?name=...
+```
 
 ```
 run react-native run-android on the project folder terminal
