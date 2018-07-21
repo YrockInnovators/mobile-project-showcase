@@ -52,7 +52,7 @@ development:
 run db:migrate to bind rails model to postgreSQL
 ```
 
-I used rake faker to put one piece data on the database
+I used Faker to put one-piece data on the database
 
 ```
 run db:seed to insert 10 records to your database environment
@@ -95,9 +95,10 @@ https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screensho
 
 ## Resources
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [PostgreSQL](https://www.postgresql.org/) - Database I used
+* [RubyonRails](http://railsinstaller.org/en) - Backend framework I used
+* [ReactNative](https://facebook.github.io/react-native/) - Frontend framework I used
+* [GemFaker](https://github.com/stympy/faker) - Sample records I populated to my database
 
 ## Contributing
 
