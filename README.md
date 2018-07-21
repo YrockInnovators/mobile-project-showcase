@@ -80,7 +80,7 @@ run npm install
 ### 3.1 Run build
 
 ```
-run react-native run-android command on the project folder
+run react-native run-android on the project folder terminal
 ```
 
 ## Built With
