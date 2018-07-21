@@ -113,6 +113,6 @@ Build 1.0
 
 * **Joel Dacuma** - *Initial work*
 
-## Acknowledgments
+## Comments
 
 * Happy Coding!
