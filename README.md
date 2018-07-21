@@ -15,7 +15,7 @@ I only have a Windows machine available so below steps will only be applicable i
 2. Install PostgreSQL 10.0+ or higher in your local machine.
 3. Install Rails 5.1, Ruby 2.3.3+ and RubyDevKit in your local machine.
 4. Install React Native 0.56.
-5. Install Android Studio 3.0.1 (If you don't like prefer a device for testing you can use Android Emulator)
+5. Install Android Studio 3.0.1 (If you don't prefer a device for testing you can use Android Emulator)
 ```
 
 ### Installation
