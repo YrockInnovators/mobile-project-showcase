@@ -59,13 +59,13 @@ I used rake faker to put one piece data on the database
 run db:seed to insert 10 records to your database environment
 ```
 
-## Run the server
+### Run the server
 ```
 type rails s and press enter
 ```
 
 
-## GET Request
+### GET Request
 ```
 /api/v1/items
 /api/v1/items?name=<character name>
