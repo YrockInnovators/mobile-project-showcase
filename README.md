@@ -52,7 +52,7 @@ development:
 run db:migrate to bind rails model to postgreSQL
 ```
 
-I used rake faker to put one piece data on the database
+I used Faker to put one-piece data on the database
 
 ```
 run db:seed to insert 10 records to your database environment
@@ -86,33 +86,28 @@ http://<local machine ipaddress>:<port>/api/v1/items?name=...
 ```
 run react-native run-android on the project folder terminal
 ```
+## Screenshots
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen1.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen2.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen3.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen4.png
 
-## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+## Resources
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+* [PostgreSQL](https://www.postgresql.org/) - Database I used
+* [RubyonRails](http://railsinstaller.org/en) - Backend framework I used
+* [ReactNative](https://facebook.github.io/react-native/) - Frontend framework I used
+* [GemFaker](https://github.com/stympy/faker) - Sample records I populated to my database
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Build 1.0
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Joel Dacuma** - *Initial work*
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Happy Coding!
