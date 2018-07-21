@@ -65,12 +65,10 @@ type rails s and press enter
 ```
 
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
+## GET Request
 ```
-Give an example
+/api/v1/items
+/api/v1/items?name=<character name>
 ```
 
 ### And coding style tests
