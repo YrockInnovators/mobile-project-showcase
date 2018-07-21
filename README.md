@@ -87,7 +87,7 @@ http://<local machine ipaddress>:<port>/api/v1/items?name=...
 run react-native run-android on the project folder terminal
 ```
 ## Screenshots
-![Alt text](/screenshots/screen1.png?raw=true "Screenshot 1")
+![Alt text](/screenshots/screen1.png?raw=true "Screenshot 1") | width=100
 
 ## Resources
 
