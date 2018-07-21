@@ -60,7 +60,7 @@ run db:seed to insert 10 records to your database environment
 
 ### Run the server
 ```
-type rails s and press enter
+run rails s command on your project server project folder
 ```
 
 
