@@ -49,13 +49,13 @@ development:
 ```
 
 ```
-run db:migrate to bind rails model to postgreSQL
+run rails db:migrate to bind rails model to postgreSQL
 ```
 
 I used Faker to put one-piece data on the database
 
 ```
-run db:seed to insert 10 records to your database environment
+run rails db:seed to insert 10 records to your database environment
 ```
 
 ### 2.1. Run the server
