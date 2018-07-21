@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_e90e3c52532c18d9ec1e49a4303f7292e406c2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_072da6c2e51b39d5ff03f84d419f62d6da1aef9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_a0724a8e1e4d4f35da3587b649c00ec3b5967e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_4a25b700ccb5ebf054be5cd02e36beabbdb1bae5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_eac2e19e9ca1275ec546bd5d515e5cd6b95eaa07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_036e8eff4423eab3df662160488454d71746d983.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_13bfa2f814d98e5a75ae18c2f3e0e42b07a0d0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_c9fbf2f22df6d6b0e84c6d0bc35e408955a6e3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_251ea8340ed790166f0df29f48b48c451ce15650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_3bd6ce387bdae666531aecf616ee9ba838e5ef82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c442dd28364cd9561eff7f920bcfbac099666013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_fcd5ec8a99f544c92d85ae92acdc3757af1bc945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_45a2e41545d2d3d1a8e4a4d32b4acd3e9bcc45f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_6d78f67c572024305bdfd31fabc8829287a7f310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_529c35fdc93ca77ebc77a3a49cc4295e861d9433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_a1147b27201cb7e2d76a6ea9f7c76d63a7323717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_3c0ebffecf24444f12efde8efe1220f802c5f460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_7d9f125a25fe294ac713333117409bb0ff27e048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_f86b7b18e91eb925905615c087825d1da40f6c10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_04262e35510368da661738e82216dc2952975e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_0eaca7dae6dc351e9dea499ae761d83c42c35b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_78448390b8802da63ff79e0a4efcd561f4d6bd85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_ea7fa9c74f341ce342e542fbc131c80fb3f78b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_393aeb56793acb7ab6381d5381fd14b812dff0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_752e49760a2d92bcfcda94db5ce4632f16eb9897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_c213390ffd39f205fcf9feefc15896c9f3048572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_5df4e7a833a91cef8b0c1a1f32bcc96a13785699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b66257806e0475c4604179f91ab25418f6c637f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_bef850bb99a0b3a4d209921149cadd36cf1d94b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_8cfb9b26753cdb3dec31301847bac76114b26db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_1788e8eb9c564aa8f4b0ac75d29aa924f81ef85e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_785f4cb16bea689a9c6e62cb7d40aa68389a6b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\practical-project\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1c1a10052f36c2672368286272627700047db535.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="C:\Users\JOELDACUMA\Documents\GitHub\mobilelists\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_98c8de8bc9efbe5c2a4167e1a7f824bc18c95e9e.jar" />
+    </item>
+
+</items>
