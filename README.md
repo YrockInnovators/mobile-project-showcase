@@ -28,9 +28,8 @@ Note that you can name your database to your prefer but you need to edit configu
 
 ## Rails 5.1
 ```
-type cd listserver on command prompt press enter.
-type bundle install on command prompt press enter.
-
+cd listserver on command prompt press enter.
+bundle install on command prompt press enter.
 ```
 
 ```
