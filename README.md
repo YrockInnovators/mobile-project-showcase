@@ -100,10 +100,6 @@ https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screensho
 * [ReactNative](https://facebook.github.io/react-native/) - Frontend framework I used
 * [GemFaker](https://github.com/stympy/faker) - Sample records I populated to my database
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Versioning
 
 Build 1.0
