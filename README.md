@@ -20,13 +20,13 @@ I only have a Windows machine available so below steps will only be applicable i
 
 ### Installation
 
-## PostgreSQL
+## 1. PostgreSQL
 ```
 Create a database and name it as listsserver
 Note that you can name your database to your prefer but you need to edit configuration in rails.  
 ```
 
-## Rails 5.1
+## 2. Rails 5.1
 ```
 cd listserver on command prompt press enter.
 bundle install on command prompt press enter.
@@ -58,19 +58,19 @@ I used rake faker to put one piece data on the database
 run db:seed to insert 10 records to your database environment
 ```
 
-### Run the server
+### 2.1. Run the server
 ```
 run rails s command on your project server project folder
 ```
 
 
-### GET Request
+### 2.2. GET Request
 ```
 /api/v1/items
 /api/v1/items?name=<character name>
 ```
 
-## React Native
+## 3. React Native
 
 ```
 cd mobilelists on command prompt
