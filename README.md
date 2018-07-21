@@ -87,7 +87,11 @@ http://<local machine ipaddress>:<port>/api/v1/items?name=...
 run react-native run-android on the project folder terminal
 ```
 ## Screenshots
-![test](https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen1.png =250x250)
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen1.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen2.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen3.png
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen4.png
+
 
 ## Resources
 
