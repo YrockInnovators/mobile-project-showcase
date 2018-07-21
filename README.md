@@ -70,12 +70,11 @@ run rails s command on your project server project folder
 /api/v1/items?name=<character name>
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+## React Native
 
 ```
-Give an example
+cd mobilelists on command prompt
+run npm install
 ```
 
 ## Deployment
