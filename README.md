@@ -86,8 +86,10 @@ http://<local machine ipaddress>:<port>/api/v1/items?name=...
 ```
 run react-native run-android on the project folder terminal
 ```
+## Screenshots
+![Alt text](/screenshots/screen1.png?raw=true "Screenshot 1")
 
-## Built With
+## Resources
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
