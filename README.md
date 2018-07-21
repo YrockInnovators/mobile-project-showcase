@@ -92,6 +92,11 @@ https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screensho
 https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen3.png
 https://github.com/YrockInnovators/mobile-project-showcase/blob/master/screenshots/screen4.png
 
+## Deploy
+
+Download signed apk here:
+
+https://github.com/YrockInnovators/mobile-project-showcase/blob/master/onepiece.apk
 
 ## Resources
 
