@@ -71,9 +71,8 @@ run rails s command on your project server project folder
 ```
 
 ## 3. React Native
-
+Ensure you install the react-native cli first in your npm
 ```
-ensure you install the react-native cli first in your npm
 npm install -g react-native-cli
 cd mobilelists on command prompt
 run npm install
